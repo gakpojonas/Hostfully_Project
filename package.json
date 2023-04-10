@@ -1,0 +1,21 @@
+{
+  "name": "hostfully_project",
+  "version": "1.0.0",
+  "description": "Test",
+  "main": "index.js",
+  "scripts": {
+    "cypress:open": "cypress open",
+    "cypress:run": "cypress run"
+  },
+  "keywords": [],
+  "author": "jonas",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^12.9.0",
+    "faker": "^6.6.6"
+  },
+  "devDependencies": {
+    "@types/faker": "^6.6.9",
+    "typescript": "^5.0.4"
+  }
+}
